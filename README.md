@@ -2,7 +2,7 @@
 - 👀 Я интересуюсь программированием на Python
 - 🌱 Я учусь в школе KodLand 
 - 💞️ Я хочу сотрудничать в областях Python'а
-- 📫 Как связатьчя со мной: Telegram: @Nik_610 или почта: nikitaandreev20112608@gmail.com
+- 📫 Как связатья со мной: Telegram: @Nik_610 или почта: nik610.is.main@gmail.com
 - ⚡ Fun fact: хпахпхахпххапапх
 
 
