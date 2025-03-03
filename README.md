@@ -11,5 +11,5 @@
 - 👀 I’m interested in programming on Python
 - 🌱 I’m currently learning in school KodLand
 - 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me: Telegram: @Nik_610 or mail: nikitaandreev20112608@gmail.com
+- 📫 How to reach me: Telegram: @Nik_610 or mail: nik610.is.main@gmail.com
 - ⚡ Fun fact: hahaahhahaha
